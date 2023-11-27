@@ -1,3 +1,11 @@
-# Vue 3 + TypeScript + Vite + Vue Router
+# 7sec
 
-Template repo
+click all the red circles before the time runs out.
+
+Try at: https://sevensec.onrender.com/.  
+See [screenshots](./screenshots/)
+
+
+## Overview
+
+Vue SPA with vite
